@@ -1,0 +1,6 @@
+"product_id,product_name,category,price,quantity_in_stock,last_updated"
+"101,Apple iPhone 14,Electronics,799,50,2025-07-01"
+"102,Samsung Galaxy S22,Electronics,749,30,2025-07-03"
+"103,Dell XPS 15,Laptops,1200,20,2025-07-05"
+"104,Nike Running Shoes,Sports,120,100,2025-07-07"
+"105,Adidas T-Shirt,Clothing,35,200,2025-07-10"
